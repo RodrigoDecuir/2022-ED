@@ -1,5 +1,5 @@
 # 2022-ED
-## Estructuras Discreta
+## Estructuras Discretas
 ### Instructores:
 * Víctor Germán Mijangos de la Cruz
 * José Antonio Ramírez Maciel
